@@ -2,10 +2,13 @@
 
 ***
 
-[Template for Lab Report](lab_report.doc)
+[**Template for Lab Report**](lab_report.doc)
 
-There are three laboratories in this course, with 4 class hours in each lab.
-**所有实验综合在一个实验报告中**
+There are eight seperated experiement laboratories in this course, 
+with 4 class hours workload each.
+**Your hand-in lab report should be combined into a single document**
+(**所有实验综合在一个实验报告中**). 
+
 
 ## LAB PREREQUISITES (Pre-Class Requirements) 
 
